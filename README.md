@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/Gary19gts/hikari-image-compressor)
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/Gary19gts)
 
-<img src="https://via.placeholder.com/800x450/007AFF/FFFFFF?text=Hikari+Image+Compressor+Screenshot" alt="Hikari Image Compressor Screenshot" width="800"/>
+![Image](https://github.com/user-attachments/assets/55bb6226-cd2c-486f-83cc-fed72b0394ea)
 
 **Compress images effortlessly with a beautiful, intuitive interface designed for simplicity and power.**
 
